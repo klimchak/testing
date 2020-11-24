@@ -1,0 +1,1806 @@
+==================================================
+Device Name       : Port_#0003.Hub_#0003
+Description       : USB Composite Device
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : P6LDU17B14000148
+Registry Time 1   : 16.10.2020 18:37:05
+Registry Time 2   : 16.10.2020 18:17:08
+VendorID          : 12d1
+ProductID         : 107e
+Firmware Revision : 2.99
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 7&2c47797e&2
+Service Name      : usbccgp
+Service Description: @usb.inf,%GenericParent.SvcDesc%;Драйвер универсального родительского устройства USB (Microsoft)
+Driver Filename   : usbccgp.sys
+Device Class      : 
+Device Mfg        : (Standard system devices)
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: USB Composite Device
+Driver Version    : 1.0.9.0
+Driver InfSection : Bus_Device.NT
+Driver InfPath    : oem20.inf
+Instance ID       : USB\VID_12D1&PID_107E\P6LDU17B14000148
+Capabilities      : Removable, UniqueID, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0001.Hub_#0003
+Description       : USB DISK 2.0 USB Device
+Device Type       : Mass Storage
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 90006234E4ABD281
+Registry Time 1   : 27.10.2020 11:11:16
+Registry Time 2   : 27.10.2020 11:11:15
+VendorID          : 13fe
+ProductID         : 4200
+Firmware Revision : 1.00
+USB Class         : 08
+USB SubClass      : 06
+USB Protocol      : 50
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : USBSTOR
+Service Description: @usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver
+Driver Filename   : USBSTOR.SYS
+Device Class      : 
+Device Mfg        : Compatible USB storage device
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: USB Mass Storage Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : USBSTOR_BULK.NT
+Driver InfPath    : usbstor.inf
+Instance ID       : USB\VID_13FE&PID_4200\90006234E4ABD281
+Capabilities      : Removable, UniqueID, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0002.Hub_#0002
+Description       : USB Composite Device
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 4E5838593032353407
+Registry Time 1   : 03.11.2020 20:03:20
+Registry Time 2   : 16.10.2020 18:16:51
+VendorID          : 04b8
+ProductID         : 0881
+Firmware Revision : 1.00
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 7&1f558b53&0
+Service Name      : usbccgp
+Service Description: @usb.inf,%GenericParent.SvcDesc%;Драйвер универсального родительского устройства USB (Microsoft)
+Driver Filename   : usbccgp.sys
+Device Class      : 
+Device Mfg        : (Стандартный USB хост-контроллер)
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: USB Composite Device
+Driver Version    : 10.0.19041.488
+Driver InfSection : Composite.Dev.NT
+Driver InfPath    : usb.inf
+Instance ID       : USB\VID_04B8&PID_0881\4E5838593032353407
+Capabilities      : Removable, UniqueID, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0002.Hub_#0002
+Description       : SanDisk Cruzer Facet USB Device
+Device Type       : Mass Storage
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 4C532000020905109594
+Registry Time 1   : 27.09.2020 9:28:49
+Registry Time 2   : 23.09.2020 10:30:35
+VendorID          : 0781
+ProductID         : 5576
+Firmware Revision : 1.26
+USB Class         : 08
+USB SubClass      : 06
+USB Protocol      : 50
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : USBSTOR
+Service Description: @usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver
+Driver Filename   : USBSTOR.SYS
+Device Class      : 
+Device Mfg        : Compatible USB storage device
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: USB Mass Storage Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : USBSTOR_BULK.NT
+Driver InfPath    : usbstor.inf
+Instance ID       : USB\VID_0781&PID_5576\4C532000020905109594
+Capabilities      : Removable, UniqueID, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0002.Hub_#0002
+Description       : USB Composite Device
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : H:
+Serial Number     : 34HDU19726002266
+Registry Time 1   : 11.11.2020 16:23:07
+Registry Time 2   : 20.09.2020 13:06:38
+VendorID          : 12d1
+ProductID         : 107e
+Firmware Revision : 2.99
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 7&6afcaf6&1
+Service Name      : usbccgp
+Service Description: @usb.inf,%GenericParent.SvcDesc%;Драйвер универсального родительского устройства USB (Microsoft)
+Driver Filename   : usbccgp.sys
+Device Class      : 
+Device Mfg        : (Standard system devices)
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: USB Composite Device
+Driver Version    : 1.0.9.0
+Driver InfSection : Bus_Device.NT
+Driver InfPath    : oem20.inf
+Instance ID       : USB\VID_12D1&PID_107E\34HDU19726002266
+Capabilities      : Removable, UniqueID, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0002.Hub_#0002
+Description       : USB Composite Device
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : H:
+Serial Number     : 34HDU19726002266
+Registry Time 1   : 10.11.2020 11:38:49
+Registry Time 2   : 09.11.2020 11:54:21
+VendorID          : 12d1
+ProductID         : 108a
+Firmware Revision : 2.99
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 6&373bf83c&0
+Service Name      : usbccgp
+Service Description: @usb.inf,%GenericParent.SvcDesc%;Драйвер универсального родительского устройства USB (Microsoft)
+Driver Filename   : usbccgp.sys
+Device Class      : 
+Device Mfg        : (Standard system devices)
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: USB Composite Device
+Driver Version    : 1.0.9.0
+Driver InfSection : Bus_Device.NT
+Driver InfPath    : oem20.inf
+Instance ID       : USB\VID_12D1&PID_108A\34HDU19726002266
+Capabilities      : Removable, UniqueID, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0002.Hub_#0002
+Description       : VMware USB Device
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : H:
+Serial Number     : 34HDU19726002266
+Registry Time 1   : 11.11.2020 16:23:04
+Registry Time 2   : 09.11.2020 14:21:42
+VendorID          : 0e0f
+ProductID         : 0001
+Firmware Revision : 0.00
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : vmusb
+Service Description: @oem0.inf,%S_ServiceDisplayName%;VMware USB Client Driver
+Driver Filename   : vmusb.sys
+Device Class      : 
+Device Mfg        : VMware, Inc.
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: VMware USB Device
+Driver Version    : 4.3.1.3
+Driver InfSection : _Install1.NT
+Driver InfPath    : oem0.inf
+Instance ID       : USB\Vid_0E0F&Pid_0001\34HDU19726002266
+Capabilities      : Removable, UniqueID, SilentInstall, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0003.Hub_#0003
+Description       : ADATA USB Flash Drive USB Device
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : F:
+Serial Number     : 28C13204600400E1
+Registry Time 1   : 10.11.2020 11:16:15
+Registry Time 2   : 05.11.2020 23:20:24
+VendorID          : 0e0f
+ProductID         : 0001
+Firmware Revision : 0.00
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : vmusb
+Service Description: @oem0.inf,%S_ServiceDisplayName%;VMware USB Client Driver
+Driver Filename   : vmusb.sys
+Device Class      : 
+Device Mfg        : VMware, Inc.
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: VMware USB Device
+Driver Version    : 4.3.1.3
+Driver InfSection : _Install1.NT
+Driver InfPath    : oem0.inf
+Instance ID       : USB\Vid_0E0F&Pid_0001\28C13204600400E1
+Capabilities      : Removable, UniqueID, SilentInstall, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : ADATA USB Flash Drive
+Description       : ADATA USB Flash Drive USB Device
+Device Type       : Mass Storage
+Connected         : Yes
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : F:
+Serial Number     : 28C13204600400E1
+Registry Time 1   : 24.11.2020 13:14:41
+Registry Time 2   : 12.09.2020 20:36:36
+VendorID          : 125f
+ProductID         : dc1a
+Firmware Revision : 11.00
+USB Class         : 08
+USB SubClass      : 06
+USB Protocol      : 50
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : USBSTOR
+Service Description: @usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver
+Driver Filename   : USBSTOR.SYS
+Device Class      : 
+Device Mfg        : Compatible USB storage device
+Friendly Name     : 
+Power             : 304 mA
+USB Version       : 3.20
+Driver Description: USB Mass Storage Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : USBSTOR_BULK.NT
+Driver InfPath    : usbstor.inf
+Instance ID       : USB\VID_125F&PID_DC1A\28C13204600400E1
+Capabilities      : Removable, UniqueID, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : USB2.0-CRW
+Description       : Realtek USB 2.0 Card Reader
+Device Type       : Vendor Specific
+Connected         : Yes
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 20100201396000000
+Registry Time 1   : 16.11.2020 14:32:08
+Registry Time 2   : 12.09.2020 20:41:36
+VendorID          : 0bda
+ProductID         : 0129
+Firmware Revision : 39.60
+USB Class         : ff
+USB SubClass      : 06
+USB Protocol      : 50
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : RTSUER
+Service Description: @oem50.inf,%RtsUER%;Realtek USB Card Reader - UER
+Driver Filename   : RtsUer.sys
+Device Class      : 
+Device Mfg        : Realtek Semiconduct Corp.
+Friendly Name     : 
+Power             : 500 mA
+USB Version       : 2.00
+Driver Description: Realtek USB 2.0 Card Reader
+Driver Version    : 10.0.10125.31214
+Driver InfSection : RSUER.UVSTOR
+Driver InfPath    : oem50.inf
+Instance ID       : USB\VID_0BDA&PID_0129\20100201396000000
+Capabilities      : UniqueID, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0006.Hub_#0003
+Description       : USB Composite Device
+Device Type       : Unknown
+Connected         : Yes
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 200901010001
+Registry Time 1   : 16.11.2020 14:32:10
+Registry Time 2   : 12.09.2020 20:36:40
+VendorID          : 5986
+ProductID         : 055e
+Firmware Revision : 36.51
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 7&330b8916&0
+Service Name      : usbccgp
+Service Description: @usb.inf,%GenericParent.SvcDesc%;Драйвер универсального родительского устройства USB (Microsoft)
+Driver Filename   : usbccgp.sys
+Device Class      : 
+Device Mfg        : (Стандартный USB хост-контроллер)
+Friendly Name     : 
+Power             : 0 mA
+USB Version       : 2.00
+Driver Description: USB Composite Device
+Driver Version    : 10.0.19041.488
+Driver InfSection : Composite.Dev.NT
+Driver InfPath    : usb.inf
+Instance ID       : USB\VID_5986&PID_055E\200901010001
+Capabilities      : UniqueID, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0002.Hub_#0002
+Description       : silicon-power USB Device
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 10091199E6A91E00B21F01D0
+Registry Time 1   : 11.11.2020 16:23:41
+Registry Time 2   : 06.11.2020 13:57:54
+VendorID          : 0e0f
+ProductID         : 0001
+Firmware Revision : 0.00
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : vmusb
+Service Description: @oem0.inf,%S_ServiceDisplayName%;VMware USB Client Driver
+Driver Filename   : vmusb.sys
+Device Class      : 
+Device Mfg        : VMware, Inc.
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: VMware USB Device
+Driver Version    : 4.3.1.3
+Driver InfSection : _Install1.NT
+Driver InfPath    : oem0.inf
+Instance ID       : USB\Vid_0E0F&Pid_0001\10091199E6A91E00B21F01D0
+Capabilities      : Removable, UniqueID, SilentInstall, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0002.Hub_#0002
+Description       : silicon-power USB Device
+Device Type       : Mass Storage
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 10091199E6A91E00B21F01D0
+Registry Time 1   : 13.11.2020 11:51:18
+Registry Time 2   : 06.11.2020 13:57:57
+VendorID          : 13fe
+ProductID         : 3623
+Firmware Revision : 1.00
+USB Class         : 08
+USB SubClass      : 06
+USB Protocol      : 50
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : USBSTOR
+Service Description: @usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver
+Driver Filename   : USBSTOR.SYS
+Device Class      : 
+Device Mfg        : Compatible USB storage device
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: USB Mass Storage Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : USBSTOR_BULK.NT
+Driver InfPath    : usbstor.inf
+Instance ID       : USB\VID_13FE&PID_3623\10091199E6A91E00B21F01D0
+Capabilities      : Removable, UniqueID, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0002.Hub_#0002
+Description       : Kingston DataTraveler 2.0 USB Device
+Device Type       : Mass Storage
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 001CC0C83B35C030C42A06EF
+Registry Time 1   : 06.11.2020 15:44:14
+Registry Time 2   : 06.11.2020 15:44:14
+VendorID          : 0930
+ProductID         : 6544
+Firmware Revision : 1.00
+USB Class         : 08
+USB SubClass      : 06
+USB Protocol      : 50
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : USBSTOR
+Service Description: @usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver
+Driver Filename   : USBSTOR.SYS
+Device Class      : 
+Device Mfg        : Compatible USB storage device
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: USB Mass Storage Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : USBSTOR_BULK.NT
+Driver InfPath    : usbstor.inf
+Instance ID       : USB\VID_0930&PID_6544\001CC0C83B35C030C42A06EF
+Capabilities      : Removable, UniqueID, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0002.Hub_#0002
+Description       : Kingston DataTraveler 2.0 USB Device
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 001CC0C83B35C030C42A06EF
+Registry Time 1   : 06.11.2020 15:44:11
+Registry Time 2   : 06.11.2020 15:44:11
+VendorID          : 0e0f
+ProductID         : 0001
+Firmware Revision : 0.00
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : vmusb
+Service Description: @oem0.inf,%S_ServiceDisplayName%;VMware USB Client Driver
+Driver Filename   : vmusb.sys
+Device Class      : 
+Device Mfg        : VMware, Inc.
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: VMware USB Device
+Driver Version    : 4.3.1.3
+Driver InfSection : _Install1.NT
+Driver InfPath    : oem0.inf
+Instance ID       : USB\Vid_0E0F&Pid_0001\001CC0C83B35C030C42A06EF
+Capabilities      : Removable, UniqueID, SilentInstall, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0001.Hub_#0003
+Description       : USB Composite Device
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 11.11.2020 15:14:52
+Registry Time 2   : 11.11.2020 15:14:51
+VendorID          : 09da
+ProductID         : 799b
+Firmware Revision : 99.00
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : Hub 1, Port 1
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 7&274e2c5d&0
+Service Name      : usbccgp
+Service Description: @usb.inf,%GenericParent.SvcDesc%;Драйвер универсального родительского устройства USB (Microsoft)
+Driver Filename   : usbccgp.sys
+Device Class      : 
+Device Mfg        : (Стандартный USB хост-контроллер)
+Friendly Name     : 
+Power             : 120 mA
+USB Version       : 1.10
+Driver Description: USB Composite Device
+Driver Version    : 10.0.19041.488
+Driver InfSection : Composite.Dev.NT
+Driver InfPath    : usb.inf
+Instance ID       : USB\VID_09DA&PID_799B\6&1d7e6c28&0&1
+Capabilities      : Removable, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : USB Device
+Description       : USB Composite Device
+Device Type       : Unknown
+Connected         : Yes
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 23.11.2020 21:08:36
+Registry Time 2   : 12.09.2020 20:36:40
+VendorID          : 09da
+ProductID         : 799b
+Firmware Revision : 99.00
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : Hub 1, Port 3
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 7&1dacb13&0
+Service Name      : usbccgp
+Service Description: @usb.inf,%GenericParent.SvcDesc%;Драйвер универсального родительского устройства USB (Microsoft)
+Driver Filename   : usbccgp.sys
+Device Class      : 
+Device Mfg        : (Стандартный USB хост-контроллер)
+Friendly Name     : 
+Power             : 120 mA
+USB Version       : 1.10
+Driver Description: USB Composite Device
+Driver Version    : 10.0.19041.488
+Driver InfSection : Composite.Dev.NT
+Driver InfPath    : usb.inf
+Instance ID       : USB\VID_09DA&PID_799B\6&1d7e6c28&0&3
+Capabilities      : Removable, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.0014.0000.002.000.000.000.000.000
+Description       : USB Input Device
+Device Type       : HID (Human Interface Device)
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 12.11.2020 19:06:58
+Registry Time 2   : 12.11.2020 19:06:58
+VendorID          : 09da
+ProductID         : 799b
+Firmware Revision : 99.00
+USB Class         : 03
+USB SubClass      : 01
+USB Protocol      : 01
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 7&159e0678&0
+Service Name      : HidUsb
+Service Description: @input.inf,%HID.SvcDesc%;Microsoft HID Class Driver
+Driver Filename   : hidusb.sys
+Device Class      : 
+Device Mfg        : (Standard system devices)
+Friendly Name     : 
+Power             : 120 mA
+USB Version       : 1.10
+Driver Description: USB Input Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : HID_Inst.NT
+Driver InfPath    : input.inf
+Instance ID       : USB\VID_09DA&PID_799B&MI_00\6&42e4d78&0&0000
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : USB Device
+Description       : USB Input Device
+Device Type       : HID (Human Interface Device)
+Connected         : Yes
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 23.11.2020 21:08:36
+Registry Time 2   : 23.11.2020 21:08:36
+VendorID          : 09da
+ProductID         : 799b
+Firmware Revision : 99.00
+USB Class         : 03
+USB SubClass      : 01
+USB Protocol      : 01
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 8&30cf09ae&0
+Service Name      : HidUsb
+Service Description: @input.inf,%HID.SvcDesc%;Microsoft HID Class Driver
+Driver Filename   : hidusb.sys
+Device Class      : 
+Device Mfg        : (Standard system devices)
+Friendly Name     : 
+Power             : 120 mA
+USB Version       : 1.10
+Driver Description: USB Input Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : HID_Inst.NT
+Driver InfPath    : input.inf
+Instance ID       : USB\VID_09DA&PID_799B&MI_00\7&1dacb13&0&0000
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.001d.0000.001.001.000.000.000.000
+Description       : USB Input Device
+Device Type       : HID (Human Interface Device)
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 11.11.2020 15:14:52
+Registry Time 2   : 11.11.2020 15:14:52
+VendorID          : 09da
+ProductID         : 799b
+Firmware Revision : 99.00
+USB Class         : 03
+USB SubClass      : 01
+USB Protocol      : 01
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 8&1a44f84d&0
+Service Name      : HidUsb
+Service Description: @input.inf,%HID.SvcDesc%;Microsoft HID Class Driver
+Driver Filename   : hidusb.sys
+Device Class      : 
+Device Mfg        : (Standard system devices)
+Friendly Name     : 
+Power             : 120 mA
+USB Version       : 1.10
+Driver Description: USB Input Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : HID_Inst.NT
+Driver InfPath    : input.inf
+Instance ID       : USB\VID_09DA&PID_799B&MI_00\7&274e2c5d&0&0000
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.0014.0000.002.000.000.000.000.000
+Description       : USB Input Device
+Device Type       : HID (Human Interface Device)
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 12.11.2020 19:06:58
+Registry Time 2   : 12.11.2020 19:06:58
+VendorID          : 09da
+ProductID         : 799b
+Firmware Revision : 99.00
+USB Class         : 03
+USB SubClass      : 01
+USB Protocol      : 02
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 7&28ce22b6&0
+Service Name      : HidUsb
+Service Description: @input.inf,%HID.SvcDesc%;Microsoft HID Class Driver
+Driver Filename   : hidusb.sys
+Device Class      : 
+Device Mfg        : (Standard system devices)
+Friendly Name     : 
+Power             : 120 mA
+USB Version       : 1.10
+Driver Description: USB Input Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : HID_Inst.NT
+Driver InfPath    : input.inf
+Instance ID       : USB\VID_09DA&PID_799B&MI_01\6&42e4d78&0&0001
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : USB Device
+Description       : USB Input Device
+Device Type       : HID (Human Interface Device)
+Connected         : Yes
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 23.11.2020 21:08:36
+Registry Time 2   : 23.11.2020 21:08:36
+VendorID          : 09da
+ProductID         : 799b
+Firmware Revision : 99.00
+USB Class         : 03
+USB SubClass      : 01
+USB Protocol      : 02
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 8&1d9eed70&0
+Service Name      : HidUsb
+Service Description: @input.inf,%HID.SvcDesc%;Microsoft HID Class Driver
+Driver Filename   : hidusb.sys
+Device Class      : 
+Device Mfg        : (Standard system devices)
+Friendly Name     : 
+Power             : 120 mA
+USB Version       : 1.10
+Driver Description: USB Input Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : HID_Inst.NT
+Driver InfPath    : input.inf
+Instance ID       : USB\VID_09DA&PID_799B&MI_01\7&1dacb13&0&0001
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.0014.0000.002.000.000.000.000.000
+Description       : USB Printing Support
+Device Type       : Printer
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 03.11.2020 20:03:20
+Registry Time 2   : 16.10.2020 18:16:51
+VendorID          : 04b8
+ProductID         : 0881
+Firmware Revision : 1.00
+USB Class         : 07
+USB SubClass      : 01
+USB Protocol      : 02
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 8&10cef4bf&0
+Service Name      : usbprint
+Service Description: @usbprint.inf,%USBPRINT.SvcDesc%;Microsoft USB PRINTER Class
+Driver Filename   : usbprint.sys
+Device Class      : 
+Device Mfg        : Microsoft
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: USB Printing Support
+Driver Version    : 10.0.19041.1
+Driver InfSection : USBPRINT_Inst.NT
+Driver InfPath    : usbprint.inf
+Instance ID       : USB\VID_04B8&PID_0881&MI_01\7&1f558b53&0&0001
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.0014.0000.002.000.000.000.000.000
+Description       : USB Input Device
+Device Type       : HID (Human Interface Device)
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 12.11.2020 19:06:58
+Registry Time 2   : 12.11.2020 19:06:58
+VendorID          : 09da
+ProductID         : 799b
+Firmware Revision : 99.00
+USB Class         : 03
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 7&6374ed&0
+Service Name      : HidUsb
+Service Description: @input.inf,%HID.SvcDesc%;Microsoft HID Class Driver
+Driver Filename   : hidusb.sys
+Device Class      : 
+Device Mfg        : (Standard system devices)
+Friendly Name     : 
+Power             : 120 mA
+USB Version       : 1.10
+Driver Description: USB Input Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : HID_Inst.NT
+Driver InfPath    : input.inf
+Instance ID       : USB\VID_09DA&PID_799B&MI_02\6&42e4d78&0&0002
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : USB Device
+Description       : USB Input Device
+Device Type       : HID (Human Interface Device)
+Connected         : Yes
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 23.11.2020 21:08:37
+Registry Time 2   : 23.11.2020 21:08:37
+VendorID          : 09da
+ProductID         : 799b
+Firmware Revision : 99.00
+USB Class         : 03
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 8&a6ed132&0
+Service Name      : HidUsb
+Service Description: @input.inf,%HID.SvcDesc%;Microsoft HID Class Driver
+Driver Filename   : hidusb.sys
+Device Class      : 
+Device Mfg        : (Standard system devices)
+Friendly Name     : 
+Power             : 120 mA
+USB Version       : 1.10
+Driver Description: USB Input Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : HID_Inst.NT
+Driver InfPath    : input.inf
+Instance ID       : USB\VID_09DA&PID_799B&MI_02\7&1dacb13&0&0002
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.001d.0000.001.001.000.000.000.000
+Description       : USB Input Device
+Device Type       : HID (Human Interface Device)
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 11.11.2020 15:14:52
+Registry Time 2   : 11.11.2020 15:14:52
+VendorID          : 09da
+ProductID         : 799b
+Firmware Revision : 99.00
+USB Class         : 03
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 8&2d698337&0
+Service Name      : HidUsb
+Service Description: @input.inf,%HID.SvcDesc%;Microsoft HID Class Driver
+Driver Filename   : hidusb.sys
+Device Class      : 
+Device Mfg        : (Standard system devices)
+Friendly Name     : 
+Power             : 120 mA
+USB Version       : 1.10
+Driver Description: USB Input Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : HID_Inst.NT
+Driver InfPath    : input.inf
+Instance ID       : USB\VID_09DA&PID_799B&MI_02\7&274e2c5d&0&0002
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.0014.0000.002.000.000.000.000.000
+Description       : EPSON SX230/TX235/ME530
+Device Type       : Vendor Specific
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 03.11.2020 20:03:20
+Registry Time 2   : 16.10.2020 18:17:05
+VendorID          : 04b8
+ProductID         : 0881
+Firmware Revision : 1.00
+USB Class         : ff
+USB SubClass      : ff
+USB Protocol      : ff
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : usbscan
+Service Description: @sti.inf,%usbscan.SvcDesc%;Драйвер USB-сканера
+Driver Filename   : usbscan.sys
+Device Class      : 
+Device Mfg        : EPSON
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: EPSON SX230/TX235/ME530
+Driver Version    : 3.7.8.4
+Driver InfSection : USB.ESWIA2.x64
+Driver InfPath    : oem37.inf
+Instance ID       : USB\VID_04B8&PID_0881&MI_00\7&1f558b53&0&0000
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0002.Hub_#0002
+Description       : USB Composite Device
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 12.11.2020 19:06:58
+Registry Time 2   : 18.09.2020 19:38:49
+VendorID          : 09da
+ProductID         : 799b
+Firmware Revision : 99.00
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 6&42e4d78&0
+Service Name      : usbccgp
+Service Description: @usb.inf,%GenericParent.SvcDesc%;Драйвер универсального родительского устройства USB (Microsoft)
+Driver Filename   : usbccgp.sys
+Device Class      : 
+Device Mfg        : (Стандартный USB хост-контроллер)
+Friendly Name     : 
+Power             : 120 mA
+USB Version       : 1.10
+Driver Description: USB Composite Device
+Driver Version    : 10.0.19041.488
+Driver InfSection : Composite.Dev.NT
+Driver InfPath    : usb.inf
+Instance ID       : USB\VID_09DA&PID_799B\5&aea7634&0&2
+Capabilities      : Removable, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0001.Hub_#0003
+Description       : Prolific USB-to-Serial Comm Port
+Device Type       : Vendor Specific
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : COM5
+Serial Number     : 
+Registry Time 1   : 13.11.2020 11:44:16
+Registry Time 2   : 13.11.2020 11:44:15
+VendorID          : 067b
+ProductID         : 2303
+Firmware Revision : 4.00
+USB Class         : ff
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : Hub 1, Port 1
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : Ser2pl
+Service Description: @oem7.inf,%Serial.SVCDESC%;Prolific Serial port WDF driver
+Driver Filename   : ser2pl64.sys
+Device Class      : 
+Device Mfg        : Prolific
+Friendly Name     : Prolific USB-to-Serial Comm Port (COM5)
+Power             : 
+USB Version       : 
+Driver Description: Prolific USB-to-Serial Comm Port
+Driver Version    : 3.6.81.357
+Driver InfSection : ComPort
+Driver InfPath    : oem7.inf
+Instance ID       : USB\VID_067B&PID_2303\6&1d7e6c28&0&1
+Capabilities      : Removable, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.0014.0000.002.000.000.000.000.000
+Description       : USB Mass Storage Device
+Device Type       : Mass Storage
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 03.11.2020 20:03:20
+Registry Time 2   : 03.11.2020 20:03:20
+VendorID          : 04b8
+ProductID         : 0881
+Firmware Revision : 1.00
+USB Class         : 08
+USB SubClass      : 06
+USB Protocol      : 50
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 8&34a63281&0
+Service Name      : USBSTOR
+Service Description: @usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver
+Driver Filename   : USBSTOR.SYS
+Device Class      : 
+Device Mfg        : Compatible USB storage device
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: USB Mass Storage Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : USBSTOR_BULK.NT
+Driver InfPath    : usbstor.inf
+Instance ID       : USB\VID_04B8&PID_0881&MI_02\7&1f558b53&0&0002
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0002.Hub_#0002
+Description       : Unknown USB Device (Device Descriptor Request Failed)
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : No
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 23.09.2020 11:03:03
+Registry Time 2   : 23.09.2020 11:03:03
+VendorID          : 0000
+ProductID         : 0002
+Firmware Revision : 0.00
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : 
+Service Description: 
+Driver Filename   : 
+Device Class      : 
+Device Mfg        : (Стандартный USB хост-контроллер)
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: Unknown USB Device (Device Descriptor Request Failed)
+Driver Version    : 10.0.19041.488
+Driver InfSection : BADDEVICE.Dev.NT
+Driver InfPath    : usb.inf
+Instance ID       : USB\VID_0000&PID_0002\5&aea7634&0&2
+Capabilities      : Removable, SilentInstall, RawDeviceOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0002.Hub_#0002
+Description       : VMware USB Device
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 10.11.2020 19:30:51
+Registry Time 2   : 06.11.2020 13:33:34
+VendorID          : 0e0f
+ProductID         : 0001
+Firmware Revision : 0.00
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : vmusb
+Service Description: @oem0.inf,%S_ServiceDisplayName%;VMware USB Client Driver
+Driver Filename   : vmusb.sys
+Device Class      : 
+Device Mfg        : VMware, Inc.
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: VMware USB Device
+Driver Version    : 4.3.1.3
+Driver InfSection : _Install1.NT
+Driver InfPath    : oem0.inf
+Instance ID       : USB\Vid_0E0F&Pid_0001\5&aea7634&0&2
+Capabilities      : Removable, SilentInstall, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.0014.0000.002.000.000.000.000.000
+Description       : Remote NDIS Compatible Device
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 09.11.2020 13:39:12
+Registry Time 2   : 09.11.2020 11:54:23
+VendorID          : 12d1
+ProductID         : 108a
+Firmware Revision : 2.99
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : usbrndis6
+Service Description: @netrndis.inf,%usbrndis6.Service.DispName%;Адаптер USB RNDIS6
+Driver Filename   : usb80236.sys
+Device Class      : 
+Device Mfg        : Microsoft
+Friendly Name     : Remote NDIS Compatible Device
+Power             : 
+USB Version       : 
+Driver Description: Remote NDIS Compatible Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : RNDIS.NT.6.0
+Driver InfPath    : rndiscmp.inf
+Instance ID       : USB\VID_12D1&PID_108A&MI_00\6&373bf83c&0&0000
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.001d.0000.001.003.000.000.000.000
+Description       : Android Composite ADB Interface
+Device Type       : Vendor Specific
+Connected         : No
+Safe To Unplug    : No
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 16.10.2020 18:17:13
+Registry Time 2   : 16.10.2020 18:17:13
+VendorID          : 12d1
+ProductID         : 0000
+Firmware Revision : 0.00
+USB Class         : ff
+USB SubClass      : 42
+USB Protocol      : 01
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : WinUSB
+Service Description: @winusb.inf,%WinUSB_SvcDesc%;Универсальный драйвер для USB-устройств
+Driver Filename   : WinUSB.sys
+Device Class      : 
+Device Mfg        : Google, Inc.
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: Android Composite ADB Interface
+Driver Version    : 2.0.3.0
+Driver InfSection : USB_Install
+Driver InfPath    : oem11.inf
+Instance ID       : USB\Vid_12D1&Subclass_42&Prot_01\7&2c47797e&2&0002
+Capabilities      : 
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.001d.0000.001.003.000.000.000.000
+Description       : Huawei HDB Interface
+Device Type       : Vendor Specific
+Connected         : No
+Safe To Unplug    : No
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 16.10.2020 18:17:13
+Registry Time 2   : 16.10.2020 18:17:13
+VendorID          : 12d1
+ProductID         : 0000
+Firmware Revision : 0.00
+USB Class         : ff
+USB SubClass      : 48
+USB Protocol      : 01
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : WinUSB
+Service Description: @winusb.inf,%WinUSB_SvcDesc%;Универсальный драйвер для USB-устройств
+Driver Filename   : WinUSB.sys
+Device Class      : 
+Device Mfg        : Google, Inc.
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: Huawei HDB Interface
+Driver Version    : 2.0.3.0
+Driver InfSection : USB_Install
+Driver InfPath    : oem15.inf
+Instance ID       : USB\Vid_12D1&Subclass_48&Prot_01\7&2c47797e&2&0003
+Capabilities      : 
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.0014.0000.002.000.000.000.000.000
+Description       : Huawei HDB Interface
+Device Type       : Vendor Specific
+Connected         : No
+Safe To Unplug    : No
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 04.10.2020 23:27:45
+Registry Time 2   : 20.09.2020 13:06:41
+VendorID          : 12d1
+ProductID         : 0000
+Firmware Revision : 0.00
+USB Class         : ff
+USB SubClass      : 48
+USB Protocol      : 01
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : WinUSB
+Service Description: @winusb.inf,%WinUSB_SvcDesc%;Универсальный драйвер для USB-устройств
+Driver Filename   : WinUSB.sys
+Device Class      : 
+Device Mfg        : Google, Inc.
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: Huawei HDB Interface
+Driver Version    : 2.0.3.0
+Driver InfSection : USB_Install
+Driver InfPath    : oem15.inf
+Instance ID       : USB\Vid_12D1&Subclass_48&Prot_01\7&6afcaf6&1&0002
+Capabilities      : 
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.001d.0000.001.003.000.000.000.000
+Description       : Honor 8
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 16.10.2020 18:37:05
+Registry Time 2   : 16.10.2020 18:17:09
+VendorID          : 12d1
+ProductID         : 0000
+Firmware Revision : 0.00
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : WUDFWpdMtp
+Service Description: 
+Driver Filename   : WUDFRd.sys
+Device Class      : 
+Device Mfg        : HUAWEI
+Friendly Name     : Honor 8
+Power             : 
+USB Version       : 
+Driver Description: Honor 8
+Driver Version    : 1.3.0.0
+Driver InfSection : MTP
+Driver InfPath    : oem24.inf
+Instance ID       : USB\Vid_12D1&Subclass_ff&Prot_00\7&2c47797e&2&0000
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.0014.0000.002.000.000.000.000.000
+Description       : YAL-L41
+Device Type       : Unknown
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 11.11.2020 16:23:07
+Registry Time 2   : 20.09.2020 13:06:39
+VendorID          : 12d1
+ProductID         : 0000
+Firmware Revision : 0.00
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : WUDFWpdMtp
+Service Description: 
+Driver Filename   : WUDFRd.sys
+Device Class      : 
+Device Mfg        : HUAWEI
+Friendly Name     : directNOU
+Power             : 
+USB Version       : 
+Driver Description: HONOR 20 PRO
+Driver Version    : 1.3.0.0
+Driver InfSection : MTP
+Driver InfPath    : oem24.inf
+Instance ID       : USB\Vid_12D1&Subclass_ff&Prot_00\7&6afcaf6&1&0000
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0007.Hub_#0003
+Description       : Qualcomm Atheros AR3012 Bluetooth 4.0
+Device Type       : Bluetooth Device
+Connected         : Yes
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 16.11.2020 14:32:10
+Registry Time 2   : 12.09.2020 20:36:43
+VendorID          : 0cf3
+ProductID         : 3004
+Firmware Revision : 0.01
+USB Class         : e0
+USB SubClass      : 01
+USB Protocol      : 01
+Hub / Port        : Hub 1, Port 7
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 7&38ada661&1
+Service Name      : BTHUSB
+Service Description: @bth.inf,%BTHUSB.SvcDesc%;Драйвер порта USB радиомодуля Bluetooth
+Driver Filename   : BTHUSB.sys
+Device Class      : 
+Device Mfg        : Qualcomm Atheros Communications
+Friendly Name     : 
+Power             : 100 mA
+USB Version       : 1.10
+Driver Description: Qualcomm Atheros AR3012 Bluetooth 4.0
+Driver Version    : 10.0.3.21
+Driver InfSection : QCABTUSBRS4
+Driver InfPath    : oem35.inf
+Instance ID       : USB\VID_0CF3&PID_3004\6&1d7e6c28&0&7
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.001d.0000.001.001.000.000.000.000
+Description       : USB Input Device
+Device Type       : HID (Human Interface Device)
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 11.11.2020 15:14:52
+Registry Time 2   : 11.11.2020 15:14:52
+VendorID          : 09da
+ProductID         : 799b
+Firmware Revision : 99.00
+USB Class         : 03
+USB SubClass      : 01
+USB Protocol      : 02
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 8&9924575&0
+Service Name      : HidUsb
+Service Description: @input.inf,%HID.SvcDesc%;Microsoft HID Class Driver
+Driver Filename   : hidusb.sys
+Device Class      : 
+Device Mfg        : (Standard system devices)
+Friendly Name     : 
+Power             : 120 mA
+USB Version       : 1.10
+Driver Description: USB Input Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : HID_Inst.NT
+Driver InfPath    : input.inf
+Instance ID       : USB\VID_09DA&PID_799B&MI_01\7&274e2c5d&0&0001
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.001d.0000.001.006.000.000.000.000
+Description       : Lenovo EasyCamera
+Device Type       : Video
+Connected         : Yes
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 16.11.2020 14:32:10
+Registry Time 2   : 12.09.2020 20:41:38
+VendorID          : 5986
+ProductID         : 055e
+Firmware Revision : 36.51
+USB Class         : 0e
+USB SubClass      : 03
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : rtsuvc
+Service Description: @oem14.inf,%rtsuvc.DeviceDesc%;EasyCamera
+Driver Filename   : rtsuvc.sys
+Device Class      : 
+Device Mfg        : Bison
+Friendly Name     : Lenovo EasyCamera
+Power             : 0 mA
+USB Version       : 2.00
+Driver Description: Lenovo EasyCamera
+Driver Version    : 10.0.10586.11193
+Driver InfSection : rtsuvc.NTamd64.6
+Driver InfPath    : oem14.inf
+Instance ID       : USB\VID_5986&PID_055E&MI_00\7&330b8916&0&0000
+Capabilities      : Removable, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0002.Hub_#0002
+Description       : USB Mass Storage Device
+Device Type       : Mass Storage
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 06.11.2020 13:34:31
+Registry Time 2   : 06.11.2020 13:34:31
+VendorID          : abcd
+ProductID         : 1234
+Firmware Revision : 1.00
+USB Class         : 08
+USB SubClass      : 06
+USB Protocol      : 50
+Hub / Port        : 
+Computer Name     : DESKTOP-S2HUQ3P
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 6&6b7d6c8&0
+Service Name      : USBSTOR
+Service Description: @usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver
+Driver Filename   : USBSTOR.SYS
+Device Class      : 
+Device Mfg        : Compatible USB storage device
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: USB Mass Storage Device
+Driver Version    : 10.0.19041.1
+Driver InfSection : USBSTOR_BULK.NT
+Driver InfPath    : usbstor.inf
+Instance ID       : USB\VID_ABCD&PID_1234\5&aea7634&0&2
+Capabilities      : Removable, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
